@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="loginWord">Login</string>
+    <string name="welcomeheadlineWord">Welcome!</string>
+    <string name="EnterYourEmailSentence">Enter your email</string>
+    <string name="EnterYourPasswordSentence">Enter your Password</string>
+    <string name="EmailErrorSentence">Email is not in format</string>
+    <string name="PasswordErrorSentence">Password must be at least 8 characters</string>
+    <string name="ForgetPasswordSentence">Forget your password?</string>
+    <string name="OrloginWith">Or Login With</string>
+    <string name="GoogleWord">Google</string>
+    <string name="YouAreAguest">You are a guest</string>
+</resources>

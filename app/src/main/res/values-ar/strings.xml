@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="loginWord">تسجيل دخول</string>
+    <string name="welcomeheadlineWord">مرحباً</string>
+    <string name="EnterYourEmailSentence">ادخل البريد الالكتروني</string>
+    <string name="EnterYourPasswordSentence">ادخل الباسورد</string>
+    <string name="EmailErrorSentence">البريد الالكتروني غير صجيح</string>
+    <string name="PasswordErrorSentence">كلمة المرور يجب ان تكون ثامنية حروف علي الاقل</string>
+    <string name="ForgetPasswordSentence">نسيت كلمة المرور؟</string>
+    <string name="OrloginWith">او سجل الدخول عن طريق</string>
+    <string name="GoogleWord">جوجل</string>
+    <string name="YouAreAguest">انك ضيف!</string>
+</resources>
