@@ -18,3 +18,4 @@
 
 ## Not covered yet
 *  **SharedPrefs**
+*  **dependency injection**
